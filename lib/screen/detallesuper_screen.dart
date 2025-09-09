@@ -70,7 +70,7 @@ class DetallesuperScreen extends StatelessWidget {
                 Bloquepoder(
                   power: double.parse(superhero.powerstats.strength),
                   color: Colors.black,
-                  textopod: "Forza",
+                  textopod: "Fuerza",
                 ),
               ],
             ),
